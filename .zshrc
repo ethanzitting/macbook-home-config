@@ -15,8 +15,8 @@ source $ZSH/oh-my-zsh.sh
 # Aliases
 alias zshconfig='nano ~/.zshrc'
 alias sail='bash vendor/bin/sail'
-alias yaylunch='/Users/ez/programming/mwi/yaylunch/yaylunch'
-alias VMTranslator='node /Users/ez/programming/personal/vm-emulator/RunTranslate.js'
+alias yaylunch='cd /Users/ez/code/mwi/yaylunch/yaylunch'
+alias VMTranslator='node /Users/ez/code/personal/vm-emulator/RunTranslate.js'
 
 # NVM
 export NVM_DIR="$HOME/.nvm"
