@@ -1,0 +1,36 @@
+# Ignore Everything...
+/*
+
+# Except these files:
+!/.gitignore
+
+# ZShell Config
+!.zshrc
+
+# SSH Config
+!.ssh/
+.ssh/*
+!.ssh/config
+
+# Git Config
+!.gitconfig
+
+# Karabiner Config
+!.config/
+.config/*
+!.config/karabiner
+.config/karabiner/*
+!config/karabiner/karabiner.json
+!config/karabiner/assets
+
+# PHPStorm Config
+!Library
+Library/*
+!Library/Application Support
+Library/Application Support/*
+!Library/Application Support/JetBrains
+Library/Application Support/JetBrains/*
+!Library/Application Support/JetBrains/PhpStorm*
+Library/Application Support/JetBrains/PhpStorm*/*
+!Library/Application Support/JetBrains/PhpStorm*/codestyles
+!Library/Application Support/JetBrains/PhpStorm*/keymaps
