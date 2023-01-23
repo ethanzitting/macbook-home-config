@@ -1,0 +1,9 @@
+[pager]
+	branch = false
+[user]
+	name = Ethan Zitting
+	email = ethan@ethanzitting.com
+[push]
+	autoSetupRemote = true
+[core]
+	autocrlf = input
